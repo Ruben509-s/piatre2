@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.vision_piatre {
+    color: rgb(12, 12, 238);
+}
+
+.Objectifs_piatre {
+    color: red;
+}
